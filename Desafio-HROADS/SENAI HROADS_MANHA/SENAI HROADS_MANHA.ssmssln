@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "SENAI HROADS_MANHA", "SENAI HROADS_MANHA\SENAI HROADS_MANHA.ssmssqlproj", "{102AE884-CB5D-4A19-9948-6605615210CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{102AE884-CB5D-4A19-9948-6605615210CA}.Default|Default.ActiveCfg = Default
+		{F1F3AF2A-19FE-42D4-8D39-F297D05A78D5}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCA50938-BBB7-4CE6-BD38-9A787DFF35F7}
+	EndGlobalSection
+EndGlobal
